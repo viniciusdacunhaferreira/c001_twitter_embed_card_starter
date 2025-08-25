@@ -1,7 +1,11 @@
 # Challenge: Twitter Embed Card
 
 This is the code for one of the challenges at [pro.codewithandrea.com](https://pro.codewithandrea.com/).
-
+<div align="center">
+  <a href="https://viniciusdacunhaferreira.github.io/c001_twitter_embed_card_starter_server/" target="_blank">
+    <img width="551" src="docs/card.gif" alt="AB Download Manager Logo">
+  </a>
+</div>
 
 ## How to run the project
 
